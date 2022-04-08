@@ -26,11 +26,11 @@ export const KNOWN_LANGUAGES = {
 
 // Uncomment this to enable site search.
 // See "Algolia" section of the README for more information.
-// export const ALGOLIA = {
-//   indexName: 'XXXXXXXXXX',
-//   appId: 'XXXXXXXXXX',
-//   apiKey: 'XXXXXXXXXX',
-// }
+export const ALGOLIA = {
+   indexName: 'index',
+   appId: 'WJB3BB1LBY',
+   apiKey: 'd500dad17ba74bb3877dbcb619af617e',
+ }
 
 export const SIDEBAR = {
 	en: [
